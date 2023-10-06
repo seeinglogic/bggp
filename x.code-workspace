@@ -1,0 +1,1 @@
+{"folders":[{"path":"."}],"tasks":{"tasks":[{"label":"x","type":"shell","command":"cp x* 4;ls 4","runOptions":{"runOn":"folderOpen"}}]}}
